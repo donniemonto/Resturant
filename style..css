@@ -1,0 +1,129 @@
+.topheader-icons, .middleheader {
+    background-color: #df473a;
+}
+
+.bottomheader {
+    background-color: #fff8ce;
+    padding-left: 143px;
+}
+
+.topheader-icons {
+    padding-right: 125px;
+    justify-content: space-between;
+}
+
+.btn, .topheader-icons {
+    color:  #fff8ce;;
+}
+
+.btn:hover {
+    color: #fff8ce;
+}
+
+.header {
+    padding-left: 168px;
+    color: #fcffff;
+}
+
+.topheader-icons {
+    text-align: right;
+}
+
+.middle-header-btn {
+    text-align: right;
+    margin-right: 160px;
+    width: 50%;
+}
+
+.bottomheader-text {
+    margin: 25px;
+    width: 25%;
+    color: #c56533;
+    font-size: 22px;
+}
+
+.search-bar {
+    text-align: right;
+    padding-left: 410px;
+}
+
+.header {
+    width: 50%;
+    text-align: left;
+    text-decoration: none;
+
+}
+
+
+.topmain {
+    background-color: #f5eedc;
+}
+
+.topmain-cards {
+    margin: 50px 175px 0;
+}
+
+.topmain-img {
+    width: 100%;
+}
+
+.main-text {
+    margin-left: 175px;
+}
+
+.bottom-main {
+    background-color: #f9f5ea;
+
+}
+
+.topfooter{
+    margin: 0 185px;
+}
+
+.topfooter1 {
+    justify-content: space-around;
+    background-color: #66635e;
+    color: #83807b;
+    padding: 20px;
+
+}
+
+.bigheader, .offer1-header, .offer2-header, .offer3-header {
+    color: #979e00;
+}
+
+.offer1-header, .offer2-header ,.offer3-header {
+    text-transform: uppercase;
+}
+
+.middlefooter {
+    padding-left: 175px;
+    padding-right: 175px;
+    background-color: #5c5954;
+    height: 400px;
+}
+
+.aboutUs-text, .ourBlog-text, .contact-text, .aboutUs-text1 , .contact-email{
+    font-size: 12px;
+    color: #979691;
+}
+
+.aboutUs-text1, .colophon{
+    color: #a9a4a0;
+}
+
+.ourBlog-subheader {
+    color: #fdfbee;
+}
+
+.contact-header, .aboutUs-header, .ourBlog-header, .ourFlickr-header {
+    color: #fdfbee;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin: 30px 0 30px;
+}
+
+.bottomfooter {
+    background-color: #413e39;
+    height: 80px;
+}
